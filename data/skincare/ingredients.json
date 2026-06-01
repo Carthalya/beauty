@@ -1,0 +1,14 @@
+[
+  {
+    "id": "jojoba-01",
+    "name": "Jojoba Oil",
+    "skinTypes": ["oily", "combination", "normal"],
+    "benefits": [
+      "hydrating",
+      "sebum balance"
+    ],
+    "comedogenicRating": 2,
+    "usageMin": 5,
+    "usageMax": 100
+  }
+]

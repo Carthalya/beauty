@@ -1,0 +1,6 @@
+export { Hero } from './Hero'
+export { FeaturedProducts } from './FeaturedProducts'
+export { DiagnosticCTA } from './DiagnosticCTA'
+export { LaboratoryCTA } from './LaboratoryCTA'
+export { Testimonials } from './Testimonials'
+export { BrandStory } from './BrandStory'
